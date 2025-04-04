@@ -16,7 +16,7 @@
   <img alt="GitHub Stats" height="49%" src="https://github-readme-stats.vercel.app/api?username=Jxpo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
 </div>
 
-### Redes sociais:
+### 👺 Redes sociais:
 
 <div> 
   <a href="https://www.instagram.com/japakawa_?igsh=bHRiYjRxanIxMDZt&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
