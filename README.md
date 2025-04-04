@@ -6,6 +6,11 @@
     <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1oZDdiamNxM3drNzZsZ3hiZXh6a3d1Y3p1NXV5cGp1M2x5MXYxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wes0M1yQt2nmg/giphy.gif" />
   </div>
 
+  <div align="center">  
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasmartinns&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Martins       GitHub Stats" /> 
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmartinns&layout=compact&hide_border=true&title_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" />
+  </div>
+
 **`Desenvolvedor FullStack`**
 
 <div display:flex; >
